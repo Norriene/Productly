@@ -1,0 +1,117 @@
+
+
+.navmeny{
+    width: 2000px;
+    height: 78px;
+    color: white;
+    line-height: 75px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+
+    
+}
+
+.navmeny img{
+
+    width: 40px;
+    height: 40px;
+     margin: left 40px;
+
+
+}
+.Para{
+    color: rgb(20, 20, 71);;
+    font-size: large;
+    font-weight: bold;
+    
+
+}
+.nav_ul{
+    display: flex
+    width: 50%;
+
+}
+.nav_ul li{
+    float: right;
+    margin: 10px;
+    padding: 0px 32px;
+    font-size: 11px;
+    text-decoration: none;  
+   
+}
+
+.main_info {
+    width: 100%;
+    height: 500px;
+}
+
+.image img{
+    float: right;
+    width: 650px;
+    margin-top: 50px;
+    margin-right: 200px;
+}
+
+.main_info{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.title{
+     
+    position: absolute;
+    width: 400px;
+    height: 100px;
+    left: 145px;
+    top: 200px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 54px;
+    color: #2F281E;
+    
+
+}
+
+.Tools {
+
+width: 500px;
+height: 50px;
+font-family: Poppins;
+font-style:normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+
+
+color: #544837;
+
+}
+.button1 {
+    background-color: orange;
+    color: white;
+    font-size: 10px;
+    padding: 10px 24px;
+
+}
+.button2 {
+    background-color: orange;
+    color:white;
+    font-size: 10px;
+    padding: 10px 24px;
+}
+.title_image {
+margin-bottom: 100px;
+margin-left: 100px;
+ max-width: 300px;
+min-height: 100px;
+display: flex;
+   
+}
